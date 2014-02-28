@@ -8,7 +8,7 @@
   688  cd 'CLI-Obstacle-Course'
   689  pwd
   690  ls
-  691  history
+  691  ls
   692  pwd
   693  ls -d
   694  ls
